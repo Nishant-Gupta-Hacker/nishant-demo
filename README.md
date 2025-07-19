@@ -1,4 +1,4 @@
 # nishant-demo
 This is my first Git Repository.
 <br>
-Author-Nishant Gutpa
+Author-Nishant Gutpa.
